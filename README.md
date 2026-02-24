@@ -190,3 +190,12 @@ Business Process Optimization System
 
 ---
 *Developed by **Muhammad Farhan Putra Pratama, S.H.*** *Sebuah solusi efisiensi administrasi kesehatan berbasis teknologi otomasi.*
+
+
+<img width="978" height="890" alt="image" src="https://github.com/user-attachments/assets/2abf3aa0-5fa1-4f1b-bf57-d63fbe6c4faf" />
+<img width="1146" height="863" alt="image" src="https://github.com/user-attachments/assets/6e331dd0-aabb-4666-b037-174d5918392e" />
+<img width="1209" height="862" alt="image" src="https://github.com/user-attachments/assets/ad7c3cb7-afab-45d7-84b9-302ca0872f9f" />
+<img width="1382" height="862" alt="image" src="https://github.com/user-attachments/assets/2a7d87e7-73c6-41ab-95ca-82f3223c738e" />
+<img width="904" height="865" alt="image" src="https://github.com/user-attachments/assets/e7e71c94-4385-4620-bd88-93f9ad05a679" />
+<img width="1004" height="865" alt="image" src="https://github.com/user-attachments/assets/e5ee6cf7-d5fa-4350-8c01-3c1e00f0371a" />
+<img width="1920" height="884" alt="image" src="https://github.com/user-attachments/assets/76721603-2bb2-413c-939d-aa31c4abd4e9" />
