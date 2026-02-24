@@ -189,6 +189,11 @@ Portfolio Demonstration Project
 Business Process Optimization System
 
 ---
+
+> [!IMPORTANT]
+> **Disclaimer:** > Kode yang ditampilkan dalam repositori ini merupakan **sampel (logic demo)** untuk keperluan portofolio. Implementasi ini mencerminkan arsitektur dasar dari sistem yang lebih kompleks dan bertujuan untuk menunjukkan keahlian dalam logika pemrograman dan otomatisasi alur kerja.
+
+---
 *Developed by **Muhammad Farhan Putra Pratama, S.H.*** *Sebuah solusi efisiensi administrasi kesehatan berbasis teknologi otomasi.*
 
 
